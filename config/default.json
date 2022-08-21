@@ -1,0 +1,11 @@
+{
+    "db-connetions": {
+        "mongodb": {
+            "host": "cluster0.ahgwj9w.mongodb.net",
+            "user": "SRG98",
+            "password": "apivehiculos1",
+            "dbname": "VehiclesDB"
+        }
+    },
+    "port": 5000
+}
